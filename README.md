@@ -12,7 +12,7 @@
 - 코드 수정 없이 이름 숨김
 - 무한 스와이프
 
-# 개발 과정
+# 개발 과정 [(노션에서 확인하기)](https://codekodo.notion.site/Android-Today-s-Quote-34b39dd91b344f90a9ebcb2fa0dcc6b6)
 
 ## 1. 기본 UI 구성하기
 
